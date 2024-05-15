@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /* Video
 -----------------------------------------------------------------*/
@@ -27,4 +28,35 @@
 			border-radius: 50%;
 		}
 	}
+=======
+
+/* Video
+-----------------------------------------------------------------*/
+
+.video-sec{
+	position: relative;
+	overflow: hidden;
+	height: 600px;
+
+	video{
+		position: absolute;
+		top: 50%;
+		left: 0;
+		width: 100%;
+		height: auto;
+		transform: translateY(-50%);
+	}
+
+	.play-button{
+
+		a{
+			width: 100px;
+			height: 100px;
+			line-height: 100px;
+			text-align: center;
+			border: 1px solid #fff;
+			border-radius: 50%;
+		}
+	}
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 }
