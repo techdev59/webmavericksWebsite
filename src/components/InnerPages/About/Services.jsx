@@ -18,7 +18,7 @@ function Services({ lightMode }) {
             </div>
             <div className="col-lg-4 d-flex align-items-center">
               <div className="text">
-                <p>A Successful Offshare Software Application Development Company Since 2020, Providing A Full Range Of Website And Mobile App Development, Games Development, IoT, AR-VR And Other IT Services And Solutions Globally.</p>
+                <p>A Successful Offshare Software Application Development Company Since 2017, Providing A Full Range Of Website And Mobile App Development, Games Development, IoT, AR-VR And Other IT Services And Solutions Globally.</p>
               </div>
             </div>
           </div>

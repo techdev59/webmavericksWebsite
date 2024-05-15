@@ -13,6 +13,7 @@ import Pages from '@/components/Preview/Pages';
 import ShopDemos from '@/components/Preview/ShopDemos';
 import CallToAction from '@/components/Preview/CallToAction';
 import Footer from '@/components/Preview/Footer';
+// import CarrierPage from "@components/InnerPages/CarrierPage";
 
 function LandingPreview() {
   useEffect(() => {
@@ -35,6 +36,7 @@ function LandingPreview() {
         <Pages />
         <ShopDemos />
         <CallToAction />
+         {/* <CarrierPage/>  */}
         <Footer />
       </main>
     </>

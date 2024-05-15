@@ -26,7 +26,7 @@ function About() {
 								</div>
 								<div className="item">
 									<h6 className="fz-16">Date</h6>
-									<span className="sub-title ls1">August 6, 2020</span>
+									<span className="sub-title ls1">August 6, 2017</span>
 								</div>
 							</div>
 						</div>

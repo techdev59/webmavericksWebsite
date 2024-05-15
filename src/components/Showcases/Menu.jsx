@@ -106,6 +106,10 @@ function Menu({ lightMode }) {
                       <li>
                         <Link href={`/${lightMode ? 'light' : 'dark'}/page-contact`} className="sub-link">Contact Us</Link>
                       </li>
+
+                      <li>
+                        <Link href={`/${lightMode ? 'light' : 'dark'}/page-carrier`} className="sub-link">Carrier</Link>
+                      </li>
                     </ul>
                   </div>
                 </li>

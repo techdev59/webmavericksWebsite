@@ -98,5 +98,10 @@
     "id": 20,
     "link": "/light/project-details1",
     "image": "/landing-preview/img/pages/010.jpg"
+  },
+  {
+    "id": 21,
+    "link": "/dark/page-career",
+    "image": "/landing-preview/img/pages/010.jpg"
   }
 ]

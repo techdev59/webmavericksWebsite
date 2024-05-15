@@ -82,11 +82,11 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
           id="navbarSupportedContent"
         >
           <ul className="navbar-nav">
-            {/* <li className="nav-item dropdown" onMouseMove={handleDropdownMouseMove} onMouseLeave={handleDropdownMouseLeave}>
+             {/* <li className="nav-item dropdown" onMouseMove={handleDropdownMouseMove} onMouseLeave={handleDropdownMouseLeave}>
               <a className="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
                 <span className="rolling-text">Home</span>
               </a>
-              <div className="dropdown-menu mega-menu">
+               <div className="dropdown-menu mega-menu">
                 <div className="container">
                   <div className="row">
                     <div className="col-lg-3">
@@ -159,8 +159,12 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
                     </div>
                   </div>
                 </div>
-              </div>
-            </li> */}
+              </div> 
+            </li>  */}
+
+          <li className="nav-item">
+              <Link className="nav-link" href="/"><span className="rolling-text">Home</span></Link>
+            </li>
 
             {/* <li className="nav-item dropdown" onMouseMove={handleDropdownMouseMove} onMouseLeave={handleDropdownMouseLeave}>
               <a className="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false"><span className="rolling-text">Pages</span></a>
@@ -349,7 +353,7 @@ function MainNavbar({ lightMode, mainBg, subBg, noStatic, curve }) {
             </li> */}
 
             <li className="nav-item">
-              <Link className="nav-link" href="/dark/page-team">
+              <Link className="nav-link" href="/dark/page-career">
                 <span className="rolling-text">Carrer</span>
               </Link>
             </li>

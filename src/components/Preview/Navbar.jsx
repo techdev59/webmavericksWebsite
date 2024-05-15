@@ -50,7 +50,7 @@ function Navbar() {
 
         <div className="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
           <ul className="navbar-nav">
-            {/* <li className="nav-item dropdown" onMouseMove={handleDropdownMouseMove} onMouseLeave={handleDropdownMouseLeave}>
+             {/* <li className="nav-item dropdown" onMouseMove={handleDropdownMouseMove} onMouseLeave={handleDropdownMouseLeave}>
               <a className="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
                 <span className="rolling-text">Home</span>
               </a>
@@ -132,7 +132,12 @@ function Navbar() {
                   </div>
                 </div>
               </div>
-            </li> */}
+            </li>  */}
+
+            
+          <li className="nav-item">
+              <Link className="nav-link" href="#"><span className="rolling-text">Home</span></Link>
+            </li>
 
 
             {/* <li className="nav-item dropdown" onMouseMove={handleDropdownMouseMove} onMouseLeave={handleDropdownMouseLeave}>
@@ -202,7 +207,7 @@ function Navbar() {
             </li> */}
 
           <li className="nav-item">
-              <Link className="nav-link" href="/dark/page-team"><span className="rolling-text">Carrer</span></Link>
+              <Link className="nav-link" href="/dark/page-career"><span className="rolling-text">Carrer</span></Link>
             </li>
 
 

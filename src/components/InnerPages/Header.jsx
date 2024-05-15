@@ -15,14 +15,14 @@ function Header({ data, subBg }) {
         <div className="row">
           <div className="col-lg-5 offset-lg-4">
             <div className="text mt-30">
-              <p>We Believe That The Future Is Digital. We Also Believe That Using Right Technology Solutions, Whether For Personal Or Corporate Needs, Enhances The Progress. Hence, Code Town Technologies Offers An Optimised Suite Of Software Consulting Services That Enable Businesses To Develop Business Strategy, Organizational Capability, Build Brands, Find Customers, Win Tenders And Achieve Sustained Growth.</p>
+              <p>Embracing the digital future is paramount. At Webmavericks Softcoders, we're dedicated to empowering businesses with strategic software solutions that catalyze growth, from brand development and customer acquisition to tender success and sustained expansion.</p>
             </div>
           </div>
         </div>
       </div>
-      <div className="main-marq xlrg section-padding pb-0">
+      <div className="main-marq xlrg section-padding pb-4">
         <div className="slide-har st1">
-          <div className="box">
+           <div className="box">
             {
               new Array(5).fill().map((_, i) => (
                 <div className="item" key={i}>
@@ -30,7 +30,7 @@ function Header({ data, subBg }) {
                 </div>
               ))
             }
-          </div>
+          </div> 
           <div className="box">
             {
               new Array(5).fill().map((_, i) => (

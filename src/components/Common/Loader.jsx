@@ -24,13 +24,29 @@ function Loader() {
       <div className="loader-wrap-heading">
         <span>
           <h2 className="load-text">
-            <span>L</span>
-            <span>o</span>
-            <span>a</span>
-            <span>d</span>
-            <span>i</span>
-            <span>n</span>
-            <span>g</span>
+          {/* webmavericks softcoders */}
+            <span>W</span>
+            <span>E</span>
+            <span>B</span>
+            <span>M</span>
+            <span>A</span>
+            <span>V</span>
+            <span>E</span>
+            <span>R</span>
+            <span>I</span>
+            <span>C</span>
+            <span>K</span>
+            <span>S</span>
+            <span>S</span>
+            <span>O</span>
+            <span>F</span>
+            <span>T</span>
+            <span>C</span>
+            <span>O</span>
+            <span>D</span>
+            <span>E</span>
+            <span>R</span>
+            <span>S</span>
           </h2>
         </span>
       </div>
