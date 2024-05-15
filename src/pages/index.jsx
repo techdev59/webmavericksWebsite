@@ -1,3 +1,4 @@
+
 import React, { useEffect } from 'react';
 //= Packages
 import Head from 'next/head';

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "id": 1,
@@ -29,4 +30,37 @@
       "Easy to start chatting"
     ]
   }
+=======
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Brand Strategy & <BR> Art Direction",
+    "features": [
+      "User friendly interface",
+      "Nothing distracts from work",
+      "Easy to start chatting"
+    ]
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "UX/UI Design & <BR> Website/App Design",
+    "features": [
+      "User friendly interface",
+      "Nothing distracts from work",
+      "Easy to start chatting"
+    ]
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/2.png",
+    "title": "Engage your <BR> customers dramatically.",
+    "features": [
+      "User friendly interface",
+      "Nothing distracts from work",
+      "Easy to start chatting"
+    ]
+  }
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 ]

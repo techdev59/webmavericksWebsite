@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "id": 1,
@@ -23,4 +24,31 @@
     "title": "Custom business Solutions",
     "text": "Create Your Own Software Development Team On Your Time And Terms By Handpicking The Best Developers From IndiaNIC. We Offer Flexible Engagement Models To Hire Developers On A Short Term, Long Term Or Permanent Basis To Ideally Suit Your Business Needs. Scale Up Your Development Team Within 48 Hours With Ready-To-Kick-Off Experts. We Follow A Consultative Approach To Prepare A Roadmap That Describes The Skill Set And Experience You Need Based On Your Project Idea."
   }
+=======
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Mobile Apps Development",
+    "text": "From B2B Or B2E Apps For Enterprises, Small Businesses, And Startups, We Have A Proven Track Record Of Offering High-Impact, Result Driven And Engaging Mobile Application Development Services. IndiaNIC Is A Top Mobile App Development Company That Is Renowned For Delivering Native Android App Development, Native IOS App Development, Hybrid And Cross-Platform App Development Services To Build Next-Gen Mobile Applications Using The Latest Technology Stack."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "Web Development",
+    "text": "Being A Leading Website Application Development Company, Our Certified Developers Have Unparalleled Expertise In Working With The Latest Web Technologies To Deliver Custom Web Solutions. Whether Creating A Web Presence For Your Company, An Information Hub For Your Business Or Empowering Your Apps/IoT Devices Through Backend- IndiaNIC Does It All By Covering A Wide Spectrum Of Web Solutions And Framework."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/2.png",
+    "title": "Utilities Development",
+    "text": "Create Your Own Software Development Team On Your Time And Terms By Handpicking The Best Developers From IndiaNIC. We Offer Flexible Engagement Models To Hire Developers On A Short Term, Long Term Or Permanent Basis To Ideally Suit Your Business Needs. Scale Up Your Development Team Within 48 Hours With Ready-To-Kick-Off Experts. We Follow A Consultative Approach To Prepare A Roadmap That Describes The Skill Set And Experience You Need Based On Your Project Idea."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/serv-icons/2.png",
+    "title": "Custom business Solutions",
+    "text": "Create Your Own Software Development Team On Your Time And Terms By Handpicking The Best Developers From IndiaNIC. We Offer Flexible Engagement Models To Hire Developers On A Short Term, Long Term Or Permanent Basis To Ideally Suit Your Business Needs. Scale Up Your Development Team Within 48 Hours With Ready-To-Kick-Off Experts. We Follow A Consultative Approach To Prepare A Roadmap That Describes The Skill Set And Experience You Need Based On Your Project Idea."
+  }
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 ]

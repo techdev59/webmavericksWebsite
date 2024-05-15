@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "id": 1,
@@ -29,4 +30,37 @@
     "name": "adrian parody",
     "position": "Co-Founder"
   }
+=======
+[
+  {
+    "id": 1,
+    "image": "/dark/assets/imgs/team/build.png",
+    "name": "adrian parody",
+    "position": "Co-Founder"
+  },
+  {
+    "id": 2,
+    "image": "/dark/assets/imgs/team/build.png",
+    "name": "adrian parody",
+    "position": "Co-Founder"
+  },
+  {
+    "id": 3,
+    "image": "/dark/assets/imgs/team/build.png",
+    "name": "adrian parody",
+    "position": "Co-Founder"
+  },
+  {
+    "id": 4,
+    "image": "/dark/assets/imgs/team/build.png",
+    "name": "adrian parody",
+    "position": "Co-Founder"
+  },
+  {
+    "id": 5,
+    "image": "/dark/assets/imgs/team/build.png",
+    "name": "adrian parody",
+    "position": "Co-Founder"
+  }
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 ]

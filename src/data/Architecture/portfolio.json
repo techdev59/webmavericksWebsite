@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "id": 1,
@@ -27,4 +28,35 @@
     "type": "Branding",
     "width": 6
   }
+=======
+[
+  {
+    "id": 1,
+    "image": "/dark/assets/imgs/arch/works/1.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "width": 5
+  },
+  {
+    "id": 2,
+    "image": "/dark/assets/imgs/arch/works/3.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "width": 6
+  },
+  {
+    "id": 3,
+    "image": "/dark/assets/imgs/arch/works/2.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "width": 6
+  },
+  {
+    "id": 4,
+    "image": "/dark/assets/imgs/arch/works/4.jpg",
+    "year": "2023",
+    "type": "Branding",
+    "width": 6
+  }
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 ]

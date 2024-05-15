@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "id": 1,
@@ -23,4 +24,31 @@
     "title": "UX/UI Design & <BR> Website/App Design",
     "text": "Creating a higher spacing and how people move through a unique."
   }
+=======
+[
+  {
+    "id": 1,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Brand Strategy & <BR> Art Direction",
+    "text": "Creating a higher spacing and how people move through a unique."
+  },
+  {
+    "id": 2,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "UX/UI Design & <BR> Website/App Design",
+    "text": "Creating a higher spacing and how people move through a unique."
+  },
+  {
+    "id": 3,
+    "image": "assets/imgs/serv-icons/0.png",
+    "title": "Brand Strategy & <BR> Art Direction",
+    "text": "Creating a higher spacing and how people move through a unique."
+  },
+  {
+    "id": 4,
+    "image": "assets/imgs/serv-icons/1.png",
+    "title": "UX/UI Design & <BR> Website/App Design",
+    "text": "Creating a higher spacing and how people move through a unique."
+  }
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 ]

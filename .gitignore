@@ -10,7 +10,11 @@
 /coverage
 
 # next.js
+<<<<<<< HEAD
 .next/
+=======
+/.next/
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 /out/
 
 # production
@@ -26,6 +30,10 @@ yarn-debug.log*
 yarn-error.log*
 
 # local env files
+<<<<<<< HEAD
+=======
+.env*.local
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 
 # vercel
 .vercel
@@ -33,6 +41,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 
 # next-video
 videos/*
@@ -40,3 +49,5 @@ videos/*
 !videos/*.js
 !videos/*.ts
 public/_next-video
+=======
+>>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7

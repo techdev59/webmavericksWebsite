@@ -1,3 +1,4 @@
+
 import React, { useEffect } from 'react';
 
 function Cursor() {
@@ -41,5 +42,6 @@ function Cursor() {
     <div className="cursor"></div>
   )
 }
+
 
 export default Cursor
