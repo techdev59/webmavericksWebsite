@@ -1,26 +1,25 @@
-<<<<<<< HEAD
-import React, { useEffect } from 'react';
+import React, { useEffect } from "react";
 //= Packages
-import Head from 'next/head';
+import Head from "next/head";
 //= Layout
-import Layout from '@/layouts/default';
+import Layout from "@/layouts/default";
 //= Components
-import Loader from '@/components/Common/Loader';
-import Navbar from '@/components/Common/MainNavbar';
-import Footer from '@/components/Startup/Footer';
-import Header from '@/components/Portfolio/Header';
-import MasonryThreeCols from '@/components/Portfolio/Masonry/3Col';
+import Loader from "@/components/Common/Loader";
+import Navbar from "@/components/Common/MainNavbar";
+import Footer from "@/components/Startup/Footer";
+import Header from "@/components/Portfolio/Header";
+import MasonryThreeCols from "@/components/Portfolio/Masonry/3Col";
 
 function PortfolioMasonry3Light() {
   useEffect(() => {
-    document.body.classList.add('main-bg');
-    return () => document.body.classList.remove('main-bg');
+    document.body.classList.add("main-bg");
+    return () => document.body.classList.remove("main-bg");
   }, []);
 
   const metadata = {
     subTitle: "Our Works",
-    title: "Masonry 3."
-  }
+    title: "Masonry 3.",
+  };
 
   return (
     <>
@@ -36,53 +35,9 @@ function PortfolioMasonry3Light() {
       </main>
       <Footer subBg lightMode />
     </>
-  )
+  );
 }
 
-PortfolioMasonry3Light.getLayout = page => <Layout lightMode>{page}</Layout>
+PortfolioMasonry3Light.getLayout = (page) => <Layout lightMode>{page}</Layout>;
 
-=======
-import React, { useEffect } from 'react';
-//= Packages
-import Head from 'next/head';
-//= Layout
-import Layout from '@/layouts/default';
-//= Components
-import Loader from '@/components/Common/Loader';
-import Navbar from '@/components/Common/MainNavbar';
-import Footer from '@/components/Startup/Footer';
-import Header from '@/components/Portfolio/Header';
-import MasonryThreeCols from '@/components/Portfolio/Masonry/3Col';
-
-function PortfolioMasonry3Light() {
-  useEffect(() => {
-    document.body.classList.add('main-bg');
-    return () => document.body.classList.remove('main-bg');
-  }, []);
-
-  const metadata = {
-    subTitle: "Our Works",
-    title: "Masonry 3."
-  }
-
-  return (
-    <>
-      <Head>
-        <title>Geekfolio - Portfolio Masonry 3 Col</title>
-      </Head>
-
-      <Loader />
-      <Navbar mainBg lightMode />
-      <main className="main-bg">
-        <Header data={metadata} />
-        <MasonryThreeCols />
-      </main>
-      <Footer subBg lightMode />
-    </>
-  )
-}
-
-PortfolioMasonry3Light.getLayout = page => <Layout lightMode>{page}</Layout>
-
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 export default PortfolioMasonry3Light;

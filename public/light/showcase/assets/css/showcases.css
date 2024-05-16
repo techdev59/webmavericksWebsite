@@ -1,4 +1,4 @@
-/* ====================== [ Custom Showcase Styles  ] ====================== */
+/* = [ Custom Showcase Styles  ] = */
 /* ------------ slideshow1------------ */
 .frame {
   position: absolute;
@@ -65,7 +65,7 @@
   bottom: 25px;
 }
 
-.slides-nav__index > span {
+.slides-nav__index>span {
   width: 2rem;
 }
 
@@ -176,7 +176,7 @@ a.frame__demo--current:hover {
   white-space: nowrap;
 }
 
-.text-row > span {
+.text-row>span {
   display: block;
   position: relative;
   padding: 0.5rem 0;

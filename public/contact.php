@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <?php
 
 // configure
@@ -13,7 +13,7 @@ $errorMessage = 'There was an error while submitting the form. Please try again 
 
 try
 {
-    $emailText = "You have new message from contact form\n=============================\n";
+    $emailText = "You have new message from contact form\n=\n";
 
     foreach ($_POST as $key => $value) {
 
@@ -47,7 +47,7 @@ if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQ
 else {
     echo $responseArray['message'];
 }
-=======
+
 <?php
 
 // configure
@@ -62,7 +62,7 @@ $errorMessage = 'There was an error while submitting the form. Please try again 
 
 try
 {
-    $emailText = "You have new message from contact form\n=============================\n";
+    $emailText = "You have new message from contact form\n=\n";
 
     foreach ($_POST as $key => $value) {
 
@@ -96,4 +96,4 @@ if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQ
 else {
     echo $responseArray['message'];
 }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+

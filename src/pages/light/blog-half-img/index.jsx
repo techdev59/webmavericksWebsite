@@ -1,27 +1,25 @@
-<<<<<<< HEAD
-import React, { useEffect } from 'react';
+import React, { useEffect } from "react";
 //= Packages
-import Head from 'next/head';
+import Head from "next/head";
 //= Layout
-import Layout from '@/layouts/default';
+import Layout from "@/layouts/default";
 //= Components
-import Loader from '@/components/Common/Loader';
-import Navbar from '@/components/Common/MainNavbar';
-import Header from '@/components/InnerPages/Blog/Header';
-import ImageOutFrame from '@/components/InnerPages/Blog/ImageOutFrame';
-import Footer from '@/components/Startup/Footer';
-
+import Loader from "@/components/Common/Loader";
+import Navbar from "@/components/Common/MainNavbar";
+import Header from "@/components/InnerPages/Blog/Header";
+import ImageOutFrame from "@/components/InnerPages/Blog/ImageOutFrame";
+import Footer from "@/components/Startup/Footer";
 
 function BlogImageOutFrameLight() {
   useEffect(() => {
-    document.body.classList.add('main-bg');
-    return () => document.body.classList.remove('main-bg');
+    document.body.classList.add("main-bg");
+    return () => document.body.classList.remove("main-bg");
   }, []);
 
   const metadata = {
     subTitle: "OUR BLOG",
-    title: "Latest News."
-  }
+    title: "Latest News.",
+  };
 
   return (
     <>
@@ -37,54 +35,9 @@ function BlogImageOutFrameLight() {
       </main>
       <Footer lightMode />
     </>
-  )
+  );
 }
 
-BlogImageOutFrameLight.getLayout = page => <Layout lightMode>{page}</Layout>
+BlogImageOutFrameLight.getLayout = (page) => <Layout lightMode>{page}</Layout>;
 
-=======
-import React, { useEffect } from 'react';
-//= Packages
-import Head from 'next/head';
-//= Layout
-import Layout from '@/layouts/default';
-//= Components
-import Loader from '@/components/Common/Loader';
-import Navbar from '@/components/Common/MainNavbar';
-import Header from '@/components/InnerPages/Blog/Header';
-import ImageOutFrame from '@/components/InnerPages/Blog/ImageOutFrame';
-import Footer from '@/components/Startup/Footer';
-
-
-function BlogImageOutFrameLight() {
-  useEffect(() => {
-    document.body.classList.add('main-bg');
-    return () => document.body.classList.remove('main-bg');
-  }, []);
-
-  const metadata = {
-    subTitle: "OUR BLOG",
-    title: "Latest News."
-  }
-
-  return (
-    <>
-      <Head>
-        <title>Geekfolio - Image Out Frame</title>
-      </Head>
-
-      <Loader />
-      <Navbar mainBg lightMode />
-      <main className="main-bg">
-        <Header data={metadata} />
-        <ImageOutFrame />
-      </main>
-      <Footer lightMode />
-    </>
-  )
-}
-
-BlogImageOutFrameLight.getLayout = page => <Layout lightMode>{page}</Layout>
-
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 export default BlogImageOutFrameLight;

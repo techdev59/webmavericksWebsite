@@ -1,221 +1,100 @@
-<<<<<<< HEAD
-
 /* Awards
 -----------------------------------------------------------------*/
 
-.awards-box{
+.awards-box {
+  .awrd-items {
+    .item {
+      padding: 80px 30px;
+      background: $main_bg;
+      border-radius: 150px;
+      text-align: center;
 
-    .awrd-items{
+      .img {
+        width: 70px;
+        margin: auto;
+      }
 
-        .item{
-            padding: 80px 30px;
-            background: $main_bg;
-            border-radius: 150px;
-            text-align: center;
-
-            .img{
-                width: 70px;
-                margin: auto;
-            }
-
-            h6{
-                margin-top: 15px;
-            }
-        }
+      h6 {
+        margin-top: 15px;
+      }
     }
+  }
 }
 
-.awards-list{
+.awards-list {
+  .cont {
+    li {
+      padding-bottom: 30px;
+      margin-bottom: 30px;
+      border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+      transition: all 0.3s;
 
-    .cont{
+      &:hover {
+        border-color: #999;
+      }
 
-        li{
-            padding-bottom: 30px;
-            margin-bottom: 30px;
-            border-bottom: 1px solid rgba(0,0,0,.1);
-            transition: all .3s;
+      .date {
+        padding: 4px 12px;
+        border-radius: 20px;
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        font-size: 12px;
+        margin-right: 10px;
+      }
 
-            &:hover{
-                border-color: #999;
-            }
+      .arrow-icon {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+        border-radius: 50%;
+        background: #fff;
+        text-align: center;
 
-            .date{
-                padding: 4px 12px;
-                border-radius: 20px;
-                border: 1px solid rgba(255,255,255,.1);
-                font-size: 12px;
-                margin-right: 10px;
-            }
-
-            .arrow-icon{
-                width: 40px;
-                height: 40px;
-                line-height: 40px;
-                border-radius: 50%;
-                background: #fff;
-                text-align: center;
-
-                svg{
-                    width: 15px;
-                }
-            }
+        svg {
+          width: 15px;
         }
+      }
     }
+  }
 }
 
-.skills-exp{
+.skills-exp {
+  .skill-item {
+    .item {
+      padding: 50px 10px;
+      border: 1px solid rgba(0, 0, 0, 0.1);
+      border-radius: 100px;
+      width: 100%;
+      text-align: center;
+      margin: 0 10px;
+      transition: all 0.4s;
 
-    .skill-item{
+      &:hover {
+        border-color: rgba(0, 0, 0, 0.5);
 
-        .item{
-            padding: 50px 10px;
-            border: 1px solid rgba(0,0,0,.1);
-            border-radius: 100px;
-            width: 100%;
-            text-align: center;
-            margin: 0 10px;
-            transition: all .4s;
-
-            &:hover{
-                border-color: rgba(0,0,0,.5);
-
-                img{
-                    filter: grayscale(0);
-                }
-            }
-
-            img{
-                filter: grayscale(1);
-                transition: all .4s;
-            }
+        img {
+          filter: grayscale(0);
         }
+      }
+
+      img {
+        filter: grayscale(1);
+        transition: all 0.4s;
+      }
     }
+  }
 
-    .exp-items{
+  .exp-items {
+    .item {
+      .icon {
+        transform: rotate(-30deg);
+        margin-bottom: 15px;
 
-        .item{
-
-            .icon{
-                transform: rotate(-30deg);
-                margin-bottom: 15px;
-
-                svg{
-                    width: 60px;
-                    height: 25px;
-                    fill: #fff;
-                }
-            }
+        svg {
+          width: 60px;
+          height: 25px;
+          fill: #fff;
         }
+      }
     }
+  }
 }
-=======
-
-/* Awards
------------------------------------------------------------------*/
-
-.awards-box{
-
-    .awrd-items{
-
-        .item{
-            padding: 80px 30px;
-            background: $main_bg;
-            border-radius: 150px;
-            text-align: center;
-
-            .img{
-                width: 70px;
-                margin: auto;
-            }
-
-            h6{
-                margin-top: 15px;
-            }
-        }
-    }
-}
-
-.awards-list{
-
-    .cont{
-
-        li{
-            padding-bottom: 30px;
-            margin-bottom: 30px;
-            border-bottom: 1px solid rgba(0,0,0,.1);
-            transition: all .3s;
-
-            &:hover{
-                border-color: #999;
-            }
-
-            .date{
-                padding: 4px 12px;
-                border-radius: 20px;
-                border: 1px solid rgba(255,255,255,.1);
-                font-size: 12px;
-                margin-right: 10px;
-            }
-
-            .arrow-icon{
-                width: 40px;
-                height: 40px;
-                line-height: 40px;
-                border-radius: 50%;
-                background: #fff;
-                text-align: center;
-
-                svg{
-                    width: 15px;
-                }
-            }
-        }
-    }
-}
-
-.skills-exp{
-
-    .skill-item{
-
-        .item{
-            padding: 50px 10px;
-            border: 1px solid rgba(0,0,0,.1);
-            border-radius: 100px;
-            width: 100%;
-            text-align: center;
-            margin: 0 10px;
-            transition: all .4s;
-
-            &:hover{
-                border-color: rgba(0,0,0,.5);
-
-                img{
-                    filter: grayscale(0);
-                }
-            }
-
-            img{
-                filter: grayscale(1);
-                transition: all .4s;
-            }
-        }
-    }
-
-    .exp-items{
-
-        .item{
-
-            .icon{
-                transform: rotate(-30deg);
-                margin-bottom: 15px;
-
-                svg{
-                    width: 60px;
-                    height: 25px;
-                    fill: #fff;
-                }
-            }
-        }
-    }
-}
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
