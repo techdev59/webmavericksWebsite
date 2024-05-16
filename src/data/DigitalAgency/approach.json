@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -23,9 +23,8 @@
     "title": "Handover",
     "text": "We help you to go online and increase your conversion rate.",
     "number": "04"
-  }
-=======
-[
+  },
+
   {
     "id": 1,
     "title": "Research",
@@ -50,5 +49,5 @@
     "text": "We help you to go online and increase your conversion rate.",
     "number": "04"
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -23,9 +23,9 @@
     "image": "/assets/imgs/serv-icons/0.png",
     "title": "Marketing Strategy",
     "text": "Praesent faucibus nisl sit amet nulla pretium a sed purus."
-  }
-=======
-[
+  },
+
+
   {
     "id": 1,
     "image": "/assets/imgs/serv-icons/0.png",
@@ -50,5 +50,5 @@
     "title": "Marketing Strategy",
     "text": "Praesent faucibus nisl sit amet nulla pretium a sed purus."
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

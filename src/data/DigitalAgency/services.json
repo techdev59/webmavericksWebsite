@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -29,9 +29,9 @@
       "Nothing distracts from work",
       "Easy to start chatting"
     ]
-  }
-=======
-[
+  },
+
+
   {
     "id": 1,
     "image": "assets/imgs/serv-icons/0.png",
@@ -62,5 +62,5 @@
       "Easy to start chatting"
     ]
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

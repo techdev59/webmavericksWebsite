@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -17,9 +17,9 @@
     "image": "/dark/assets/imgs/blog/h3.jpg",
     "date": "30 august 2021",
     "title": "We create some things for your success in future growth"
-  }
-=======
-[
+  },
+
+
   {
     "id": 1,
     "image": "/dark/assets/imgs/blog/h1.jpg",
@@ -38,5 +38,5 @@
     "date": "30 august 2021",
     "title": "We create some things for your success in future growth"
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

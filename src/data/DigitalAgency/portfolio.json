@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -29,9 +29,8 @@
     "image": "assets/imgs/sass-img/work/5.jpg",
     "type": "Branding",
     "title": "Artboard Studio"
-  }
-=======
-[
+  },
+
   {
     "id": 1,
     "image": "assets/imgs/sass-img/work/1.jpg",
@@ -62,5 +61,5 @@
     "type": "Branding",
     "title": "Artboard Studio"
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -13,9 +13,9 @@
     "picture": "/dark/assets/imgs/testim/2.jpg",
     "author": "Leonard Heiser",
     "position": "Ceo"
-  }
-=======
-[
+  },
+
+
   {
     "id": 1,
     "content": "I have been hiring people in this space for a number of years and I have never seen this level of professionalism. It really feels like you are working with a team that can get the job done.",
@@ -30,5 +30,5 @@
     "author": "Leonard Heiser",
     "position": "Ceo"
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

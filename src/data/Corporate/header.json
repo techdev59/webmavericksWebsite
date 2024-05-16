@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -29,9 +29,9 @@
       "link": "/dark/page-about",
       "text": "Get Solutions"
     }
-  }
-=======
-[
+  },
+
+
   {
     "id": 1,
     "background": "/dark/assets/imgs/background/17.jpg",
@@ -62,5 +62,5 @@
       "text": "Get Solutions"
     }
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

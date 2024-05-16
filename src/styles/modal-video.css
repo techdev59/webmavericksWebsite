@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 @keyframes modal-video {
   from {
     opacity: 0;
@@ -125,7 +125,7 @@
   left: 0;
   background: #fff;
   border-radius: 5px;
-=======
+}
 @keyframes modal-video {
   from {
     opacity: 0;
@@ -252,5 +252,5 @@
   left: 0;
   background: #fff;
   border-radius: 5px;
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 }

@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -41,9 +41,8 @@
     "tag": "Web Design",
     "title": "Branding Process",
     "date": 2023
-  }
-=======
-[
+  },
+
   {
     "id": 1,
     "image": "/dark/assets/imgs/portfolio/4/01.jpg",
@@ -86,5 +85,5 @@
     "title": "Branding Process",
     "date": 2023
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

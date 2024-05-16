@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -20,9 +20,8 @@
     "cover": "/dark/assets/imgs/blog/b2.jpg",
     "author": "Admin",
     "date": "august 6, 2021"
-  }
-=======
-[
+  },
+
   {
     "id": 1,
     "title": "Creative advertising in our life became a info noise",
@@ -44,5 +43,5 @@
     "author": "Admin",
     "date": "august 6, 2021"
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

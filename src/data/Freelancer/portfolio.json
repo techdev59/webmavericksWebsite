@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -34,9 +34,8 @@
     "title": "Astra Brand Identity",
     "category": "Branding",
     "date": "2023"
-  }
-=======
-[
+  },
+
   {
     "id": 1,
     "image": "/dark/assets/imgs/freelancer/works/1.jpg",
@@ -72,5 +71,5 @@
     "category": "Branding",
     "date": "2023"
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

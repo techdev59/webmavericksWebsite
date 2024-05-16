@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -17,9 +17,8 @@
     "picture": "/dark/assets/imgs/team/3.jpg",
     "name": "Matt Smith",
     "position": "Co-Founder"
-  }
-=======
-[
+  },
+
   {
     "id": 1,
     "picture": "/dark/assets/imgs/team/1.jpg",
@@ -38,5 +37,5 @@
     "name": "Matt Smith",
     "position": "Co-Founder"
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

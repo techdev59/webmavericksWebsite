@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -19,9 +19,8 @@
       "Marketing",
       "Design"
     ]
-  }
-=======
-[
+  },
+
   {
     "id": 1,
     "title": "Free advertising for your online business.",
@@ -42,5 +41,4 @@
       "Design"
     ]
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
 ]

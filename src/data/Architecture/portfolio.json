@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -27,9 +27,9 @@
     "year": "2023",
     "type": "Branding",
     "width": 6
-  }
-=======
-[
+  },
+
+
   {
     "id": 1,
     "image": "/dark/assets/imgs/arch/works/1.jpg",
@@ -58,5 +58,5 @@
     "type": "Branding",
     "width": 6
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]

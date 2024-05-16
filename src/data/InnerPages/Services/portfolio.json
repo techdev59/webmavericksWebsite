@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 [
   {
     "id": 1,
@@ -23,9 +23,9 @@
     "type": "Design",
     "title": "Roseville Pottery",
     "text": "We craft premium designs for agencies and global brands around the globe."
-  }
-=======
-[
+  },
+
+
   {
     "id": 1,
     "image": "assets/imgs/portfolio/gallery/1.jpg",
@@ -50,5 +50,5 @@
     "title": "Roseville Pottery",
     "text": "We craft premium designs for agencies and global brands around the globe."
   }
->>>>>>> 2a8764e07c23f76597450f9070008c504f861aa7
+
 ]
