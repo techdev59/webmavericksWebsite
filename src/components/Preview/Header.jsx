@@ -12,7 +12,7 @@ function Header() {
                 <span className="icon-img-20 mr-10">
                   <img src="/landing-preview/img/star.svg" alt="" />
                 </span>
-                Awesome Template
+                {/* Awesome Template */}
               </h6>
               <h1>A <span>perfect</span> Place for Your Creative <span>Portfolio</span>.</h1>
             </div>

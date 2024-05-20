@@ -23,7 +23,7 @@ function CallToAction() {
                   <span className="rotate-text">Let’s <span className="sub-font">get to work</span>.</span>
                 </h2>
               </div>
-              <div className="ml-auto">
+              {/* <div className="ml-auto">
                 <a href={appData.author_link} className="butn-circle d-flex align-items-center text-center m-auto">
                   <div className="full-width">
                     <span><svg width="18" height="18" viewBox="0 0 18 18" fill="none"
@@ -36,7 +36,7 @@ function CallToAction() {
                   </div>
                   <img src="/dark/assets/imgs/svg-assets/circle-star.svg" alt="" className="circle-star" />
                 </a>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

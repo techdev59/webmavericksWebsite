@@ -11,7 +11,7 @@ import Header from '@/components/Preview/Header';
 import Demos from '@/components/Preview/Demos';
 import Marq from '@/components/Preview/Marq';
 import Pages from '@/components/Preview/Pages';
-import ShopDemos from '@/components/Preview/ShopDemos';
+//import ShopDemos from '@/components/Preview/ShopDemos';
 import CallToAction from '@/components/Preview/CallToAction';
 import Footer from '@/components/Preview/Footer';
 // import CarrierPage from "@components/InnerPages/CarrierPage";
@@ -32,10 +32,10 @@ function LandingPreview() {
       <Overlay />
       <main>
         <Header />
-        <Demos />
+        <Demos /> 
         <Marq />
-        <Pages />
-        <ShopDemos />
+        {/* <Pages /> */}
+        {/* <ShopDemos /> */}
         <CallToAction />
          {/* <CarrierPage/>  */}
         <Footer />

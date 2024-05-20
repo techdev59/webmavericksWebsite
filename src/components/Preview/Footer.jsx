@@ -11,9 +11,9 @@ function Footer() {
           <div className="row">
             <div className="col-lg-4">
               <div className="logo">
-                <a href="#0">
+                {/* <a href="#0">
                   <img src="/dark/assets/imgs/logo-light.png" alt="" />
-                </a>
+                </a> */}
               </div>
             </div>
             <div className="col-lg-8">

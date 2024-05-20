@@ -11,36 +11,36 @@ function Marq() {
               <div className="slide-har st1 strok">
                 <div className="box">
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                 </div>
                 <div className="box">
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                   <div className="item">
-                    <h4>+ 25 Inner Pages</h4>
+                    <h4>Let’s Bring Business to Skylimit</h4>
                   </div>
                 </div>
               </div>

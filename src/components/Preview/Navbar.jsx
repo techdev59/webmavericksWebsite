@@ -41,9 +41,9 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg static">
       <div className="container">
-        <a className="logo icon-img-100" href="#">
+        {/* <a className="logo icon-img-100" href="#">
           <img src="/dark/assets/imgs/logo-light.png" alt="logo" />
-        </a>
+        </a> */}
         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
           aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation" onClick={toggleNavbar} >
           <span className="icon-bar"><i className="fas fa-bars"></i></span>
@@ -228,12 +228,12 @@ function Navbar() {
             </li>
           </ul>
         </div>
-
+{/* 
         <div className="purchase">
           <a href={appData.author_link} className="butn butn-md butn-bord radius-30">
             <span>Purchase</span>
           </a>
-        </div>
+        </div> */}
       </div>
     </nav>
   )
