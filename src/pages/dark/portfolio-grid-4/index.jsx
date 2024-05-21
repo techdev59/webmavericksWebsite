@@ -24,7 +24,7 @@ function PortfolioClassicGrid3() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Portfolio Classic Grid 4 Col</title>
+        {/* <title>Geekfolio - Portfolio Classic Grid 4 Col</title> */}
       </Head>
 
       <Loader />

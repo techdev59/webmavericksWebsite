@@ -20,7 +20,7 @@ function BlogDetails() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Blog Details</title>
+        {/* <title>Geekfolio - Blog Details</title> */}
       </Head>
 
       <Loader />

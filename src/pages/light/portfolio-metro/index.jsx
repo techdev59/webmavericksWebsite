@@ -24,7 +24,7 @@ function PortfolioMetroLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Portfolio Metro</title>
+        {/* <title>Geekfolio - Portfolio Metro</title> */}
       </Head>
 
       <Loader />

@@ -25,7 +25,7 @@ function LandingPreview() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Preview</title>
+        {/* <title>Geekfolio - Preview</title> */}
       </Head>
 
       <Navbar />

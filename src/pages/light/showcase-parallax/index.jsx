@@ -21,7 +21,7 @@ function ShowcaseVerticalParallaxLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Vertical Parallax</title>
+        {/* <title>Geekfolio - Vertical Parallax</title> */}
       </Head>
 
       <Loader />

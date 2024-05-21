@@ -21,7 +21,7 @@ function ShowcaseFrameSlider() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Frame Slider</title>
+        {/* <title>Geekfolio - Frame Slider</title> */}
       </Head>
 
       <Loader />

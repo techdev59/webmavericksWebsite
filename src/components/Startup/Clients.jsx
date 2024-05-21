@@ -38,9 +38,9 @@ function Clients({ lightMode }) {
                         alt=""
                       />
                     </div>
-                    <Split tag="a" href={appData.author_link} className="link">
+                    {/* <Split tag="a" href={appData.author_link} className="link">
                       www.GeekFolio.com
-                    </Split>
+                    </Split> */}
                   </div>
                 </div>
               ))}

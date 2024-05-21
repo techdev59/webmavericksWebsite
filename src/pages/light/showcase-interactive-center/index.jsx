@@ -18,7 +18,7 @@ function ShowcaseInteractiveCenterLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Interactive</title>
+        {/* <title>Geekfolio - Interactive</title> */}
       </Head>
 
       <Loader />

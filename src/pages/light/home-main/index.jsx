@@ -63,7 +63,7 @@ function HomeMainLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Main</title>
+        {/* <title>Geekfolio - Main</title> */}
       </Head>
 
       <Loader />

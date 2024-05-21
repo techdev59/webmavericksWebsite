@@ -31,7 +31,7 @@ function PageAboutLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - About</title>
+        {/* <title>Geekfolio - About</title> */}
       </Head>
 
       <Loader />

@@ -28,7 +28,7 @@ function HomeArchitecture() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Architecture</title>
+        {/* <title>Geekfolio - Architecture</title> */}
       </Head>
 
       <Loader />

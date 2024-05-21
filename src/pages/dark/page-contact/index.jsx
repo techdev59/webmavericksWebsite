@@ -19,7 +19,7 @@ function PageContact() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Contact Us</title>
+        {/* <title>Geekfolio - Contact Us</title> */}
       </Head>
 
       <Loader />

@@ -21,7 +21,7 @@ function ShowcaseCircleSlider() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Circle Slider</title>
+        {/* <title>Geekfolio - Circle Slider</title> */}
       </Head>
 
       <Loader />

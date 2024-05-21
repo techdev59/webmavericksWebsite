@@ -18,7 +18,7 @@ function ShowcaseCarousel() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Carousel</title>
+        {/* <title>Geekfolio - Carousel</title> */}
       </Head>
 
       <Loader />

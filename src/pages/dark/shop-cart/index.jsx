@@ -32,7 +32,7 @@ function ShopCart() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Shop Cart</title>
+        {/* <title>Geekfolio - Shop Cart</title> */}
       </Head>
 
       <Loader />

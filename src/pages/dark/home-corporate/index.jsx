@@ -29,7 +29,7 @@ function HomeCorporate() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Corporate</title>
+        {/* <title>Geekfolio - Corporate</title> */}
       </Head>
 
       <Loader />

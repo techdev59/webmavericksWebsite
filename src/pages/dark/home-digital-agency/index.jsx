@@ -30,7 +30,7 @@ function HomeDigitalAgency() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Digital Agency</title>
+        {/* <title>Geekfolio - Digital Agency</title> */}
       </Head>
 
       <Loader />

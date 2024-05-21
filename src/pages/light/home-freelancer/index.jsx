@@ -26,7 +26,7 @@ function HomeFreelancer() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Freelancer</title>
+        {/* <title>Geekfolio - Freelancer</title> */}
       </Head>
 
       <Loader />

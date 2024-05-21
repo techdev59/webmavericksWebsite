@@ -23,7 +23,7 @@ function CareerPage() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Project Details</title>
+        {/* <title>Geekfolio - Project Details</title> */}
       </Head>
 
       <Loader />

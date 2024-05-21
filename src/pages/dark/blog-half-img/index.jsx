@@ -26,7 +26,7 @@ function BlogImageOutFrame() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Image Out Frame</title>
+        {/* <title>Geekfolio - Image Out Frame</title> */}
       </Head>
 
       <Loader />

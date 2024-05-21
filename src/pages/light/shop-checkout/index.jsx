@@ -32,7 +32,7 @@ function ShopCheckout() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Shop Checkout</title>
+        {/* <title>Geekfolio - Shop Checkout</title> */}
       </Head>
 
       <Loader />

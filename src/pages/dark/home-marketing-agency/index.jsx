@@ -34,7 +34,7 @@ function HomeMarketingAgency() {
   return (
     <ParallaxProvider>
       <Head>
-        <title>Geekfolio - Marketing Agency</title>
+        {/* <title>Geekfolio - Marketing Agency</title> */}
       </Head>
 
       <Loader />

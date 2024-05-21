@@ -94,7 +94,8 @@ function Footer({ lightMode }) {
           <div className="container">
             <div className="row">
               <div className="col-lg-4">
-                <div className="logo">
+
+                {/* <div className="logo">
                   <a href="#">
                     <img
                       src={`/dark/assets/imgs/logo-${
@@ -103,12 +104,13 @@ function Footer({ lightMode }) {
                       alt=""
                     />
                   </a>
-                </div>
+                </div> */}
+                
               </div>
               <div className="col-lg-8">
                 <div className="copyright d-flex">
                   <div className="ml-auto">
-                    <p className="fz-13">
+                    {/* <p className="fz-13">
                       © 2023 Geekfolio is Proudly Powered by{" "}
                       <span className="underline">
                         {" "}
@@ -116,7 +118,7 @@ function Footer({ lightMode }) {
                           {data.author}
                         </a>
                       </span>
-                    </p>
+                    </p> */}
                   </div>
                 </div>
               </div>

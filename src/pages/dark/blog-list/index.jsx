@@ -26,7 +26,7 @@ function BlogList() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Blog List</title>
+        {/* <title>Geekfolio - Blog List</title> */}
       </Head>
 
       <Loader />

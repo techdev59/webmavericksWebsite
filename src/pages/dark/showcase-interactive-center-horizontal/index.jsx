@@ -18,7 +18,7 @@ function ShowcaseInteractiveCenterHorizontal() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Interactive Horizontal</title>
+        {/* <title>Geekfolio - Interactive Horizontal</title> */}
       </Head>
 
       <Loader />

@@ -109,7 +109,7 @@ function Post() {
               </div>
               <div>
                 <Link href="/dark/blog-classic">Tech</Link>
-                <Link href="/dark/blog-classic">Geekfolio</Link>
+                {/* <Link href="/dark/blog-classic">Geekfolio</Link> */}
               </div>
             </div>
           </div>

@@ -13,7 +13,7 @@ function ShowcaseParallaxSlider() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Parallax Slider</title>
+        {/* <title>Geekfolio - Parallax Slider</title> */}
       </Head>
 
       <Loader />

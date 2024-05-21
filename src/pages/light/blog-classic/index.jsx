@@ -24,7 +24,7 @@ function BlogClassicLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Blog Classic</title>
+        {/* <title>Geekfolio - Blog Classic</title> */}
       </Head>
 
       <Loader />

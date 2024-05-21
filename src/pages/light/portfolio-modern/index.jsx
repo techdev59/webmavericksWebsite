@@ -24,7 +24,7 @@ function PortfolioModernLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Portfolio Modern</title>
+        {/* <title>Geekfolio - Portfolio Modern</title> */}
       </Head>
 
       <Loader />

@@ -21,7 +21,7 @@ function PageTeamLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Our Team</title>
+        {/* <title>Geekfolio - Our Team</title> */}
       </Head>
 
       <Loader />

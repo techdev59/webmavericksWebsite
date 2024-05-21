@@ -29,7 +29,7 @@ function PageServicesLight() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Services</title>
+        {/* <title>Geekfolio - Services</title> */}
       </Head>
 
       <Loader />

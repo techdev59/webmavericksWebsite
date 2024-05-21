@@ -24,7 +24,7 @@ function Intro() {
           </div>
           <div className="col-lg-5 valign">
             <div className="cont full-width md-mb50">
-              <h3 className="mb-15">Geekfolio <br /> Architects studio</h3>
+              {/* <h3 className="mb-15">Geekfolio <br /> Architects studio</h3> */}
               <p>Through a unique combination of engineering, construction and design disciplines and
                 expertise, Concor delivers world class infrastructure.</p>
 

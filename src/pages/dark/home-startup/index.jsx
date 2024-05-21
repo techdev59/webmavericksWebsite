@@ -27,7 +27,7 @@ function HomeStartup() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Startup</title>
+        {/* <title>Geekfolio - Startup</title> */}
       </Head>
 
       <Loader />

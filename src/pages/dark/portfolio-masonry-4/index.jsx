@@ -24,7 +24,7 @@ function PortfolioMasonry4() {
   return (
     <>
       <Head>
-        <title>Geekfolio - Portfolio Masonry 4 Col</title>
+        {/* <title>Geekfolio - Portfolio Masonry 4 Col</title> */}
       </Head>
 
       <Loader />

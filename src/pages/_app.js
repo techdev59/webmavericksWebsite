@@ -14,7 +14,7 @@ function App({ Component, pageProps }) {
   return getLayout(
     <>
       <Head>
-        <title>Geekfolio</title>
+        {/* <title>Geekfolio</title> */}
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
       </Head>
 

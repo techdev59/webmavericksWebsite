@@ -29,7 +29,7 @@ function HomeOnePage() {
   return (
     <>
       <Head>
-        <title>Geekfolio - One Page</title>
+        {/* <title>Geekfolio - One Page</title> */}
       </Head>
 
       <Loader />
