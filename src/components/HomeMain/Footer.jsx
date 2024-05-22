@@ -119,6 +119,7 @@ function Footer({ lightMode }) {
                         </a>
                       </span>
                     </p> */}
+                     <p className="fz-13">© 2023 Geekfolio is Proudly Powered by </p>
                   </div>
                 </div>
               </div>

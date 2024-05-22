@@ -4,6 +4,7 @@ import data from "@/data/InnerPages/Team/team.json";
 
 function Team() {
   return (
+    
     <section className="team-crev section-padding sub-bg">
       <div className="container">
         <div className="row md-marg">
@@ -24,6 +25,7 @@ function Team() {
                             </div>
                           ))}
                         </div>
+                        
                         <div className="box">
                           {new Array(5).fill().map((_, i) => (
                             <div className="item" key={i}>
@@ -42,13 +44,13 @@ function Team() {
                             </div>
                           ))}
                         </div>
-                        <div className="box">
+                         <div className="box">
                           {new Array(5).fill().map((_, i) => (
                             <div className="item" key={i}>
                               <h4>{item.name}</h4>
                             </div>
                           ))}
-                        </div>
+                        </div> 
                       </div>
                     </div>
                   </div>

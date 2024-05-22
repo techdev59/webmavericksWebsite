@@ -100,9 +100,9 @@ function Footer({ lightMode, subBg }) {
               </div>
               <div className="col-lg-8">
                 <div className="copyright d-flex">
-                  {/* <div className="ml-auto">
-                    <p className="fz-13">© 2023 Geekfolio is Proudly Powered by <span className="underline"><a href={data.author_link} target="_blank">{data.author}</a></span></p>
-                  </div> */}
+                  <div className="ml-auto">
+                  <p className="fz-13">© 2023 Copyright Protected by Softcoders Team </p>
+                  </div>
                 </div>
               </div>
             </div>
