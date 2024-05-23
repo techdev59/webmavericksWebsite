@@ -100,9 +100,9 @@ function ServicesTab({ lightMode }) {
                 <p>We help you to go online and increase your conversion rate Better design for your digital products. </p>
               </div>
               <ul className="rest">
-                <li className="item-link current mb-15" data-tab="tabs-1" onClick={openTab}><span>01</span>Mobile Development</li>
-                <li className="item-link mb-15" data-tab="tabs-2" onClick={openTab}><span>02</span>Web Development</li>
-                <li className="item-link mb-15" data-tab="tabs-3" onClick={openTab}><span>03</span> UI/UX Design</li>
+              <li className="item-link mb-15 test1" data-tab="tabs-1" onClick={openTab}><span>01</span>Mobile Development</li>
+                <li className="item-link mb-15 test1" data-tab="tabs-2" onClick={openTab}><span>02</span>Web Development</li>
+                <li className="item-link mb-15 test1" data-tab="tabs-3" onClick={openTab}><span>03</span> UI/UX Design</li>
                 {/* <li className="item-link" data-tab="tabs-4" onClick={openTab}><span>04</span> Marketing</li> */}
               </ul>
             </div>

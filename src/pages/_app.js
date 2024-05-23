@@ -8,6 +8,7 @@ import '@/styles/modal-video.css';
 import "swiper/css/bundle";
 import '@/styles/globals.css';
 
+
 function App({ Component, pageProps }) {
   const getLayout = Component.getLayout || ((page) => page);
 

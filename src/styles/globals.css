@@ -108,3 +108,18 @@ body {
   color: #000;
 
 }
+
+.test1{
+  font-size: 30px !important;
+  font-weight: bold !important;
+}
+
+.img-scroll {
+  overflow-x: auto; /* Enable horizontal scrolling */
+  white-space: nowrap; /* Prevent images from wrapping */
+}
+
+.img-scroll img {
+  display: inline-block; /* Ensure images are displayed in a row */
+  margin-right: 10px; /* Adjust spacing between images */
+}

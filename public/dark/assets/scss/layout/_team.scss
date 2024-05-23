@@ -14,6 +14,7 @@
     position: relative;
     padding: 15px;
     border: 1px solid rgba(255, 255, 255, 0.1);
+    
 
     .info {
       position: absolute;
@@ -93,11 +94,15 @@
         &.team-name {
           background: #fff;
           left: 0;
+          overflow: hidden; /* Ensure content overflow is hidden */
+          white-space: nowrap; /* Prevent names from wrapping */
 
           h4 {
             color: $main_bg !important;
           }
         }
+
+        
       }
     }
 
