@@ -21,11 +21,11 @@ function Team() {
 
           .scroll-container {
             display: flex;
-            animation: scroll 20s linear infinite;
+            animation: scroll 10s linear infinite;
           }
 
           .team-item {
-            flex: 0 0 25%; /* 100% / 4 = 25% */
+            flex: 0 0 10%; /* 100% / 4 = 25% */
             box-sizing: border-box;
             padding: 22px;
           }
@@ -39,7 +39,7 @@ function Team() {
           }
 
           .img img {
-            width: 100%;
+            width: 200px !important;
             border-radius: 10px 10px 0 0;
           }
 

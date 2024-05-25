@@ -64,9 +64,79 @@
   },
   {
     "id": 10,
-    "image": "/dark/assets/imgs/team/rahul.png",
+    "image": "/dark/assets/imgs/team/Rahul.png",
+    "name": "Rahul Sharma",
+    "position": "Mobile Engineer"
+  },
+
+  {
+    "id": 1,
+    "image": "/dark/assets/imgs/team/saiKrishna.png",
+    "name": "Sai Krishna",
+    "position": "Sr.Frontend Engineer"
+  },
+
+  {
+    "id": 2,
+    "image": "/dark/assets/imgs/team/madhuri.png",
+    "name": "Madhuri Patel",
+    "position": "Frontend Engineer"
+  },
+
+  {
+    "id": 3,
+    "image": "/dark/assets/imgs/team/deepesh.png",
+    "name": "Deepesh Sain",
+    "position": "Frontend Engineer"
+  },
+
+  {
+    "id": 4,
+    "image": "/dark/assets/imgs/team/Vikash.png",
+    "name": "Vikash Singh",
+    "position": "Sr.Python Engineer"
+  },
+
+  {
+    "id": 5,
+    "image": "/dark/assets/imgs/team/shubham.png",
+    "name": "Shubham Shitole",
+    "position": "Python Engineer"
+  },
+
+  {
+    "id": 6,
+    "image": "/dark/assets/imgs/team/prashant.png",
+    "name": "Prashant Sain",
+    "position": "Python Engineer"
+  },
+ 
+  {
+    "id": 7,
+    "image": "/dark/assets/imgs/team/shivam.png",
+    "name": "Shivam Sharma",
+    "position": "Backend Engineer"
+  },
+
+  {
+    "id": 8,
+    "image": "/dark/assets/imgs/team/Asfaqe Hussain.png",
+    "name": "Asfaqe Hussain",
+    "position": "React Native Engineer"
+  },
+ 
+  {
+    "id": 9,
+    "image": "/dark/assets/imgs/team/Aman.png",
+    "name": "Aman",
+    "position": "Node.js Developer"
+  },
+  {
+    "id": 10,
+    "image": "/dark/assets/imgs/team/Rahul.png",
     "name": "Rahul Sharma",
     "position": "Mobile Engineer"
   }
-
+  
+  
 ]
