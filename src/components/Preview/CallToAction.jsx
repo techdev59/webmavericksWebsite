@@ -13,7 +13,8 @@ function CallToAction() {
   return (
     <section className="call-action-img sub-bg">
       <div className="container">
-        <div className="sec-bg-img bg-img parallaxie" data-background="/dark/assets/imgs/background/background.png"></div>
+        <div className="sec-bg-img bg-img parallaxie" data-background=""></div>
+        
         <div className="sec-lg-head section-padding">
           <div className="row ontop">
             <div className="col-11 d-flex align-items-center">
@@ -23,6 +24,8 @@ function CallToAction() {
                   <span className="rotate-text">Let’s <span className="sub-font">get to work</span>.</span>
                 </h2>
               </div>
+
+
               {/* <div className="ml-auto">
                 <a href={appData.author_link} className="butn-circle d-flex align-items-center text-center m-auto">
                   <div className="full-width">
@@ -37,6 +40,8 @@ function CallToAction() {
                   <img src="/dark/assets/imgs/svg-assets/circle-star.svg" alt="" className="circle-star" />
                 </a>
               </div> */}
+
+
             </div>
           </div>
         </div>

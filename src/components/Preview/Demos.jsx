@@ -8,7 +8,7 @@ function Demos() {
   return (
     <section className="demos section-padding pt-80">
       <div className="container-xxl">
-        <div className="row">
+        {/* <div className="row">
           {
             data.map(item => (
               <div className="col-lg-4 col-md-6" key={item.id}>
@@ -35,7 +35,7 @@ function Demos() {
               <h6 className="mt-15">Coming More</h6>
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
     </section>
   )

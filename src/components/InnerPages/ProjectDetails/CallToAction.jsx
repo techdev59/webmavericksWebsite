@@ -15,7 +15,7 @@ function CallToAction() {
           className="sec-bg-img bg-img parallaxie"
           data-background="/dark/assets/imgs/works/projects/1/cini.png"
         ></div>
-        <div className="sec-lg-head section-padding">
+        <div className="sec-lg-head section-padding" style={{marginTop:"160px !important"}}>
           <div className="row ontop">
             <div className="col-11 d-flex align-items-center">
               <div>
